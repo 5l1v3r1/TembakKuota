@@ -13,50 +13,50 @@ echo "\033[32;1m=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*
 toilet -f standard -F gay "Tembak Kuota"
 echo "\033[31;1m=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*"
 echo ""
-echo "Author : " Mr.TamfanX"
-" Team : " MRTAMFANX CYBER TEAM"
-echo " Kontak Me : " 085779515200"
+echo "Author : " Ivan Cruzz Revoer"
+" Team : "  CyberArmyAttack"
+echo " Kontak Me : " 0857xxxx"
 " Pesan : "Jangan Di Salah Gunakan Dan Disebar :) Karena Nanti Dosa Tanggung Sendiri:)"
 sleep 1
 echo "ThanksTo:"
-echo "Allmember MRTAMFANX CYBER TEAM"
+echo "Allmember CyberArmyAttack"
 echo "\033[33;1m=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*"
 echo ""
 sleep 2
 echo "Mau Tembak Kuota...""Silahkan Pilih No Dibawah Bacaan Ini !"
-sleep 3
+sleep 0.2
 echo "1.XL/AXIS"
-sleep 3
+sleep 0.2
 echo "2.INDOSAT"
-sleep 2
+sleep 0.2
 echo "3.SIMPATI"
-sleep 3
+sleep 0.2
 echo "4.SMARTFREN"
-sleep 2
+sleep 0.2
 echo "5.3(Three)"
-sleep 3
+sleep 0.2
 echo "masukkan kodenya"
 read p;
 echo "\033[31;1mSedang Menuju Proses..."
-sleep 3
+sleep 1
 echo "\033[37;1m█10%"
 sleep 2
 echo "██20%"
-sleep 5
+sleep 3
 echo "███30%"
-sleep 3
+sleep 4
 echo "████40%"
-sleep 3
+sleep 5
 echo "█████50%"
-sleep 3
+sleep 4
 echo "██████60%"
 sleep 3
 echo "███████70%"
-sleep 4
+sleep 2
 echo "████████80%"
-sleep 3
+sleep 1
 echo "█████████90%"
-sleep 4
+sleep 2
 echo "██████████100%"
 sleep 3
 clear
@@ -87,9 +87,10 @@ echo "\033[33;1mTunggulah Sekitar 10 Menit Untuk Mendapatkan Sms Masuk...."
 sleep 1
 echo "Jika 10Menit Belum Ada Sms Masuk Berarti No Kamu tidak Valid...!!"
 sleep 2
-echo "Thanks To:MrUncle - MrTamfanX - Owl Cyber Team"
+echo "Thanks To:MrRevoer'S - MrIvanId - CyberArmyAttack"
 sleep 2
 echo "Pesan:Jangan Salahin Admin Ya Kentod...Mau Kuota Gratis Ga Sabar..."
-sleep 3
-
+sleep 1
+echo "Kuota Berhasil Ditembakan Silahkan Cek Nomor Anda!!"
+sleep 2
 
